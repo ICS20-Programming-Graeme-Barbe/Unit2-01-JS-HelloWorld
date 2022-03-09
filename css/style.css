@@ -1,0 +1,16 @@
+/* Created by: Graeme Barbe
+* Created on: March 09 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-01-HTML-JS-HelloWorld
+*/
+
+body {
+	background-color: lightcyan;
+}
+
+h1 {
+	background-color: rgb(4, 236, 16);
+	color: hsl(15, 23%, 90%);
+	padding: 60px;
+	text-align: center;
+}
